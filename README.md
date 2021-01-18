@@ -1,5 +1,9 @@
 # Programming resources
 
+> Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime.
+>
+> &ndash; <cite>David Leinweber</cite>
+
 ## Table of Contents
 
 - [Documentation](#documentation)
@@ -40,3 +44,15 @@
 > Simplicity is prerequisite for reliability.
 >
 > <cite>&ndash; Edsger W. Dijkstra</cite>
+
+> Code without tests is broken as designed.
+>
+> <cite>&ndash; Jacob Kaplan-Moss</cite>
+
+> Debugging is twice as hard as writing code in the first place. Therefore, if you write code as cleverly as possible, you are, by definition, not smart enough to debug it.
+>
+> <cite>&ndash; Brian Kernighan</cite>
+
+> Programs must be written for people to read and only incidentally for machines to execute.
+>
+> <cite>&ndash; Harold Abelson, <i>Structure and Interpretation of Computer Programs</i></cite>
