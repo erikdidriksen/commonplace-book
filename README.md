@@ -13,6 +13,7 @@
 
 ## Documentation
 - ["Writing Great Documentation" by Jacob Kaplan-Moss](https://jacobian.org/series/great-documentation/)
+- ["Teach, Don't Tell" by Steve Losh](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
 
 ## Git
 
@@ -21,13 +22,14 @@
 
 ## Python
 
+### Principles
 - ["Beyond PEP8: Best Practices for Beautiful Intelligble Code" by Raymond Hettinger](https://youtube.com/watch?v=wf-BqAjZb8M)
 - ["Readability Counts" by Trey Hunner](https://youtube.com/watch?v=knMg6G9_XCg)
 - ["Unraveling the Spaghetti: Tips for Refactoring Your Code" by Nicholas Del Grosso](https://youtube.com/watch?v=0dMz-bv_wUw)
-
 - ["The Zen of Python" by Tim Peters](https://python.org/dev/peps/pep-0020/)
-- ["A Guide to Python's Magic Methods" by Rafe Kettler](https://rszalski.github.io/magicmethods)
 
+### References
+- ["A Guide to Python's Magic Methods" by Rafe Kettler](https://rszalski.github.io/magicmethods)
 - [pyformat.info](https://pyformat.info)
 - [strfime.org](https://strftime.org)
 
