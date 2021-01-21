@@ -33,6 +33,9 @@
 - [pyformat.info](https://pyformat.info)
 - [strfime.org](https://strftime.org)
 
+### Projects
+- ["Pyambic Pentameter: Generating Rhyming and Metered Poems" by Kathryn Lingel](https://youtube.com/watch?v=2ymZVpuqvSc) ([source](https://github.com/katlings/pyambic-pentameter/))
+
 ## Wisdom
 
 > When faced with a particularly gnarly problem, stop trying to solve the problem. Start figuring out how to not have it.
