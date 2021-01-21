@@ -58,3 +58,11 @@
 > Programs must be written for people to read and only incidentally for machines to execute.
 >
 > <cite>&ndash; Harold Abelson, <i>Structure and Interpretation of Computer Programs</i></cite>
+
+> Show me your flowchart and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won't usually need your flowchart; it'll be obvious.
+>
+> <cite>&ndash; Fred Brooks, <i>The Mythical Man-Month</i></cite>
+
+> Show me your code and conceal your data structures, and I shall continue to be mystified. Show me your data structures, and I won't usually need your code; it'll be obvious.
+>
+> <cite>&ndash; Eric Raymond, <i>The Cathedral and the Bazaar</i></cite>
