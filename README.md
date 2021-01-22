@@ -12,6 +12,11 @@
 - [Wisdom](#wisdom)
 
 ## Documentation
+
+> Documentation is a love loetter that you rite to your future self.
+>
+> &ndash; <cite>Damian Conway</cite>
+
 - ["Writing Great Documentation" by Jacob Kaplan-Moss](https://jacobian.org/series/great-documentation/)
 - ["Teach, Don't Tell" by Steve Losh](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
 
