@@ -36,7 +36,7 @@
 ### References
 - ["A Guide to Python's Magic Methods" by Rafe Kettler](https://rszalski.github.io/magicmethods)
 - [pyformat.info](https://pyformat.info)
-- [strfime.org](https://strftime.org)
+- [strftime.org](https://strftime.org)
 
 ### Projects
 - ["Pyambic Pentameter: Generating Rhyming and Metered Poems" by Kathryn Lingel](https://youtube.com/watch?v=2ymZVpuqvSc) ([source](https://github.com/katlings/pyambic-pentameter/))
