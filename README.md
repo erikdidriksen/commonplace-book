@@ -74,3 +74,7 @@
 > Show me your code and conceal your data structures, and I shall continue to be mystified. Show me your data structures, and I won't usually need your code; it'll be obvious.
 >
 > <cite>&ndash; Eric Raymond, <i>The Cathedral and the Bazaar</i></cite>
+
+> There are two ways of constructing a software design: one way is to make it so simple that there are _obviously_ no deficiencies and the other is to make it so complicated that there are no _obvious_ deficiencies.
+>
+> <cite>&ndash; Tony Hoare</cite>
