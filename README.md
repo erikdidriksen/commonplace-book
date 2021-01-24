@@ -13,7 +13,7 @@
 
 ## Documentation
 
-> Documentation is a love letter that you rite to your future self.
+> Documentation is a love letter that you write to your future self.
 >
 > &ndash; <cite>Damian Conway</cite>
 
