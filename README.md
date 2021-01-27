@@ -78,3 +78,7 @@
 > There are two ways of constructing a software design: one way is to make it so simple that there are _obviously_ no deficiencies and the other is to make it so complicated that there are no _obvious_ deficiencies.
 >
 > <cite>&ndash; Tony Hoare</cite>
+
+> If you try to trade off quality for speed, you'll end up with neither.
+>
+> <cite>&ndash; Allen Holub ([source](https://twitter.com/allenholub/status/1354530936063365120))
