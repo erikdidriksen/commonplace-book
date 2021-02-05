@@ -6,10 +6,18 @@
 
 ## Table of Contents
 
+- [Code Review](#code-review)
 - [Documentation](#documentation)
 - [Git](#git)
 - [Python](#python)
 - [Wisdom](#wisdom)
+
+## Code review
+
+- ["Constructive Code Review" by Erik Rose](https://www.youtube.com/watch?v=iNG1a--SIlk)
+- ["How to Do Code Reviews Like a Human" by Michael Lynch](https://mtlynch.io/human-code-reviews-1/)
+- ["How to Make Your Code Reviewer Fall in Love with You" by Michael Lynch](https://mtlynch.io/code-review-love/)
+- ["All About Code Review" by Michaela Greiler](https://github.com/mgreiler/all-about-code-review/blob/master/README.md)
 
 ## Documentation
 
