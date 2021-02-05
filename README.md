@@ -91,3 +91,7 @@
 > If you try to trade off quality for speed, you'll end up with neither.
 >
 > <cite>&ndash; Allen Holub ([source](https://twitter.com/allenholub/status/1354530936063365120))
+
+> Testing shows the presence, not the absence, of bugs.
+>
+> <cite>&ndash; Edsger W. Dijkstra</cite>
