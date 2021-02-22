@@ -96,3 +96,7 @@
 > Testing shows the presence, not the absence, of bugs.
 >
 > <cite>&ndash; Edsger W. Dijkstra</cite>
+
+> The tools we use have a profound (and devious!) influence on our thinking habits, and, therefore, on our thinking abilities.
+>
+> <cite>&ndash; Edsger W. Dijkstra</cite>
