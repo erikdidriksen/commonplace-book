@@ -42,6 +42,7 @@
 - ["Readability Counts" by Trey Hunner](https://youtube.com/watch?v=knMg6G9_XCg)
 - ["Unraveling the Spaghetti: Tips for Refactoring Your Code" by Nicholas Del Grosso](https://youtube.com/watch?v=0dMz-bv_wUw)
 - ["The Zen of Python" by Tim Peters](https://python.org/dev/peps/pep-0020/)
+- ["The Clean Architecture in Python" by Brandon Rhodes](https://youtube.com/watch?v=DJtef410XaM)
 
 ### References
 - ["A Guide to Python's Magic Methods" by Rafe Kettler](https://rszalski.github.io/magicmethods)
