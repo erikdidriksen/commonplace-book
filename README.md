@@ -46,6 +46,7 @@
 
 ### References
 - ["A Guide to Python's Magic Methods" by Rafe Kettler](https://rszalski.github.io/magicmethods)
+- ["Python Design Patterns" by Brandon Rhodes](https://python-patterns.guide/)
 - [pyformat.info](https://pyformat.info)
 - [strftime.org](https://strftime.org)
 
