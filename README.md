@@ -10,6 +10,7 @@
 - [Documentation](#documentation)
 - [Git](#git)
 - [Python](#python)
+- [Refactoring](#refactoring)
 - [Wisdom](#wisdom)
 
 ## Code review
@@ -40,7 +41,6 @@
 ### Principles
 - ["Beyond PEP8: Best Practices for Beautiful Intelligble Code" by Raymond Hettinger](https://youtube.com/watch?v=wf-BqAjZb8M)
 - ["Readability Counts" by Trey Hunner](https://youtube.com/watch?v=knMg6G9_XCg)
-- ["Unraveling the Spaghetti: Tips for Refactoring Your Code" by Nicholas Del Grosso](https://youtube.com/watch?v=0dMz-bv_wUw)
 - ["The Zen of Python" by Tim Peters](https://python.org/dev/peps/pep-0020/)
 - ["The Clean Architecture in Python" by Brandon Rhodes](https://youtube.com/watch?v=DJtef410XaM)
 
@@ -52,6 +52,11 @@
 
 ### Projects
 - ["Pyambic Pentameter: Generating Rhyming and Metered Poems" by Kathryn Lingel](https://youtube.com/watch?v=2ymZVpuqvSc) ([source](https://github.com/katlings/pyambic-pentameter/))
+
+## Refactoring
+
+- ["Catalog of Refactorings" from *Refactoring* by Martin Fowler](https://refactoring.com/catalog/)
+- ["Unraveling the Spaghetti: Tips for Refactoring Your Code" by Nicholas Del Grosso](https://youtube.com/watch?v=0dMz-bv_wUw)
 
 ## Wisdom
 
