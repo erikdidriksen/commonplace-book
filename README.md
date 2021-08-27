@@ -102,3 +102,7 @@
 > The tools we use have a profound (and devious!) influence on our thinking habits, and, therefore, on our thinking abilities.
 >
 > <cite>&ndash; Edsger W. Dijkstra</cite>
+
+> If you wait until you can make a complete justification for a chance, you've waited too long.
+>
+> <cite>&ndash; Eric Evans, *Domain-Driven Design*, Chapter 13: "Refactoring Toward Deeper Insight"
