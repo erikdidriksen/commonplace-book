@@ -111,3 +111,7 @@
 > If you wait until you can make a complete justification for a change, you've waited too long.
 >
 > <cite>&ndash; Eric Evans, *Domain-Driven Design*, Chapter 13: "Refactoring Toward Deeper Insight"
+
+> The purpose of software engineering is to control complexity, not to create it.
+>
+> <cite>&ndash; Pamela Zave</cite>
