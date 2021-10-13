@@ -115,3 +115,7 @@
 > The purpose of software engineering is to control complexity, not to create it.
 >
 > <cite>&ndash; Pamela Zave</cite>
+
+> If all else is equal, more code is bad &ndash; but rarely is all else equal. The extra code breaks up the logic into identifiable parts, separating the calculations of the statements from the layout. This modularity makes it easier for me to understand the parts of the code and how they fit together. Brevity is the soul of wit, but clarity is the soul of evolvable software.
+>
+> <cite>&ndash; Martin Fowler, *Refactoring*
