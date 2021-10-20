@@ -44,6 +44,7 @@
 - ["Readability Counts" by Trey Hunner](https://youtube.com/watch?v=knMg6G9_XCg)
 - ["The Zen of Python" by Tim Peters](https://python.org/dev/peps/pep-0020/)
 - ["The Clean Architecture in Python" by Brandon Rhodes](https://youtube.com/watch?v=DJtef410XaM)
+- ["Align the Happy Path to the Left Edge" by Mat Ryer](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
 
 ### References
 - ["A Guide to Python's Magic Methods" by Rafe Kettler](https://rszalski.github.io/magicmethods)
