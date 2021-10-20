@@ -26,6 +26,7 @@
 >
 > &ndash; <cite>Damian Conway</cite>
 
+- ["The Art of Documentation" by Chelsea Troy](https://chelseatroy.com/2021/09/14/the-art-of-documentation/)
 - ["Writing Great Documentation" by Jacob Kaplan-Moss](https://jacobian.org/series/great-documentation/)
 - ["Teach, Don't Tell" by Steve Losh](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
 - ["Building Docs Like Code: Continuous Integration for Documentation" by Mason Egger](https://www.youtube.com/watch?v=wEt_8twQctQ)
