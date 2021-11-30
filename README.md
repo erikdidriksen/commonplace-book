@@ -125,3 +125,7 @@
 > When I first started at Resolver, I used to virtuously pepper my code with nice descriptive comments. My colleagues said to me: "Harry, we have a word for comments. We call them lies."
 >
 > <cite>&ndash; Harry J.W. Percival, *Test-Driven Development with Python*
+
+> Code is like poetry; most of it shouldn't have been written.
+>
+> <cite>&ndash; David Jacobs</cite>
