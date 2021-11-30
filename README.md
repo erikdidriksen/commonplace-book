@@ -11,6 +11,7 @@
 - [Git](#git)
 - [Python](#python)
 - [Refactoring](#refactoring)
+- [Technical Debt](#technical-debt)
 - [Wisdom](#wisdom)
 
 ## Code review
@@ -59,6 +60,12 @@
 
 - ["Catalog of Refactorings" from *Refactoring* by Martin Fowler](https://refactoring.com/catalog/)
 - ["Unraveling the Spaghetti: Tips for Refactoring Your Code" by Nicholas Del Grosso](https://youtube.com/watch?v=0dMz-bv_wUw)
+
+## Technical debt
+
+- ["Technical Debt" by Martin Fowler](https://martinfowler.com/bliki/TechnicalDebt.html)
+- ["Quantifying Technical Debt" by Chelsea Troy](https://chelseatroy.com/2021/01/14/quantifying-technical-debt/)
+- ["Technical Debt != Bad Coding" by Joshua Arnold](https://costofdelay.com/technical-debt-bad-coding)
 
 ## Wisdom
 
