@@ -136,3 +136,7 @@
 > Code is like poetry; most of it shouldn't have been written.
 >
 > <cite>&ndash; David Jacobs</cite>
+
+> Debugging is like being the detective in a crime movie where you are also the murderer.
+> 
+> <cite>&ndash; Filipe Fortes
