@@ -144,3 +144,7 @@
 > Nothing is more dangerous than an idea if it's the only one you have.
 >
 > <cite>&ndash; Emil-Auguste Chartier, *Propos sur la religion*, 1938
+
+> You cannot control an exponential process with a linear response.
+>
+> <cite>&ndash; Dr. Duncan Robertson ([source](https://twitter.com/Dr_D_Robertson/status/1470723127336488960))</cite>
