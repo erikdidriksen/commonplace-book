@@ -140,3 +140,7 @@
 > Debugging is like being the detective in a crime movie where you are also the murderer.
 > 
 > <cite>&ndash; Filipe Fortes
+
+> Nothing is more dangerous than an idea if it's the only one you have.
+>
+> <cite>&ndash; Emil-Auguste Chartier, *Propos sur la religion*, 1938
