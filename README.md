@@ -148,3 +148,7 @@
 > You cannot control an exponential process with a linear response.
 >
 > <cite>&ndash; Dr. Duncan Robertson ([source](https://twitter.com/Dr_D_Robertson/status/1470723127336488960))</cite>
+
+> ... there are few things that are less logical than business logic.
+>
+> <cite>&ndash; Martin Fowler, *Patterns of Enterprise Application Architecture*</cite>
