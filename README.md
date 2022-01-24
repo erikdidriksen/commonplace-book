@@ -152,3 +152,7 @@
 > ... there are few things that are less logical than business logic.
 >
 > <cite>&ndash; Martin Fowler, *Patterns of Enterprise Application Architecture*</cite>
+
+> The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+>
+> <cite>&ndash; Edsger W. Dijkstra</cite>
