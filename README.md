@@ -156,3 +156,7 @@
 > The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 >
 > <cite>&ndash; Edsger W. Dijkstra</cite>
+
+> Don't even start considering solutions until you understand the problem. Your goal should be to "solve" the problem mostly within the problem domain, not the solution domain.
+>
+> <cite>&ndash; Oz Nova</cite>
