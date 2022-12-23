@@ -48,6 +48,8 @@
 - ["Align the Happy Path to the Left Edge" by Mat Ryer](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
 
 ### References
+- [PEP8](https://www.python.org/dev/peps/pep-0008/), the general Python style guide
+- [PEP257](https://www.python.org/dev/peps/pep-0257/), the Python docstring style guide
 - ["A Guide to Python's Magic Methods" by Rafe Kettler](https://rszalski.github.io/magicmethods)
 - ["Python Design Patterns" by Brandon Rhodes](https://python-patterns.guide/)
 - [pyformat.info](https://pyformat.info)
