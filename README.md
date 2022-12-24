@@ -46,6 +46,8 @@
 - ["The Zen of Python" by Tim Peters](https://python.org/dev/peps/pep-0020/)
 - ["The Clean Architecture in Python" by Brandon Rhodes](https://youtube.com/watch?v=DJtef410XaM)
 - ["Align the Happy Path to the Left Edge" by Mat Ryer](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
+- ["Notes from 'Python Best Practice Patterns'" by Steven Loria](https://stevenloria.com/python-best-practice/)
+- ["The Best of the Best Practices (BOBP) Guide for Python" by Steven Loria](https://gist.github.com/sloria/7001839)
 
 ### References
 - [PEP8](https://www.python.org/dev/peps/pep-0008/), the general Python style guide
