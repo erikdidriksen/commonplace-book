@@ -9,6 +9,7 @@
 - [Code Review](#code-review)
 - [Documentation](#documentation)
 - [Git](#git)
+- [Philosophy](#philosophy)
 - [Python](#python)
 - [Refactoring](#refactoring)
 - [Technical Debt](#technical-debt)
@@ -38,6 +39,11 @@
 - ["How to Write a Git Commit" by Chris Beams](https://chris.beams.io/posts/git-commit)
 - ["A Useful Template for Commit Messages" by David Winterbottom](https://codeinthehole.com/tips/a-useful-template-for-commit-messages/)
 - ["Git Commit Messages for the Bold and the Daring" by Carmen Popoviciu](https://backlog.com/blog/git-commit-messages-bold-daring)
+
+## Philosophy
+
+- ["A Philosophy of Software Design" by John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/book.php)
+- ["7 Code Virtues Explained" by Tim Ottinger](https://www.industriallogic.com/blog/code-virtues-explained/)
 
 ## Python
 
