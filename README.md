@@ -44,6 +44,7 @@
 
 - ["A Philosophy of Software Design" by John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/book.php)
 - ["7 Code Virtues Explained" by Tim Ottinger](https://www.industriallogic.com/blog/code-virtues-explained/)
+- ["The DRY Principle: Benefits and Costs with Examples" by Matthieu Cneude](https://thevaluable.dev/dry-principle-cost-benefit-example/)
 
 ## Python
 
