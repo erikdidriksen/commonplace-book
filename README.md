@@ -174,3 +174,11 @@
 > Don't even start considering solutions until you understand the problem. Your goal should be to "solve" the problem mostly within the problem domain, not the solution domain.
 >
 > <cite>&ndash; Oz Nova</cite>
+
+> You haven't mastered a tool until you understand when it should not be used.
+>
+> <cite>&ndash; Kelsey Hightower ([source](https://twitter.com/kelseyhightower/status/963428093292457984))</cite>
+
+> In theory, there is no difference between theory and practice. In practice, there is.
+>
+> <cite>&ndash; Yogi Berra</cite>
