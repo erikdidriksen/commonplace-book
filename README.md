@@ -79,6 +79,7 @@
 
 - ["Technical Debt" by Martin Fowler](https://martinfowler.com/bliki/TechnicalDebt.html)
 - ["Quantifying Technical Debt" by Chelsea Troy](https://chelseatroy.com/2021/01/14/quantifying-technical-debt/)
+- ["Technical Debt: An Analytical Approach" by Chelsea Troy](https://chelseatroy.thinkific.com/courses/technical-debt-an-analytical-approach)
 - ["Technical Debt != Bad Coding" by Joshua Arnold](https://costofdelay.com/technical-debt-bad-coding)
 
 ## Wisdom
