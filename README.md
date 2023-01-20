@@ -182,3 +182,7 @@
 > In theory, there is no difference between theory and practice. In practice, there is.
 >
 > <cite>&ndash; Yogi Berra</cite>
+
+> There is only one true requirement for any software: make your users/customers' lives better. Everything else is just implementation detail.
+>
+> <cite>&ndash; Allen Holub ([source](https://twitter.com/allenholub/status/1614767693063933953))
