@@ -191,3 +191,7 @@
 > There is only one true requirement for any software: make your users/customers' lives better. Everything else is just implementation detail.
 >
 > <cite>&ndash; Allen Holub ([source](https://twitter.com/allenholub/status/1614767693063933953))
+
+> Data is a precious thing and will last longer than the systems themselves.
+>
+> <cite>&ndash; Tim Berners-Lee</cite>
