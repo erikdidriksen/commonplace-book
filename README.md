@@ -126,7 +126,7 @@
 
 > If you try to trade off quality for speed, you'll end up with neither.
 >
-> <cite>&ndash; Allen Holub ([source](https://twitter.com/allenholub/status/1354530936063365120))
+> <cite>&ndash; Allen Holub ([source](https://twitter.com/allenholub/status/1354530936063365120))</cite>
 
 > Testing shows the presence, not the absence, of bugs.
 >
@@ -138,7 +138,7 @@
 
 > If you wait until you can make a complete justification for a change, you've waited too long.
 >
-> <cite>&ndash; Eric Evans, *Domain-Driven Design*, Chapter 13: "Refactoring Toward Deeper Insight"
+> <cite>&ndash; Eric Evans, *Domain-Driven Design*, Chapter 13: "Refactoring Toward Deeper Insight"</cite>
 
 > The purpose of software engineering is to control complexity, not to create it.
 >
@@ -146,11 +146,11 @@
 
 > If all else is equal, more code is bad &ndash; but rarely is all else equal. The extra code breaks up the logic into identifiable parts, separating the calculations of the statements from the layout. This modularity makes it easier for me to understand the parts of the code and how they fit together. Brevity is the soul of wit, but clarity is the soul of evolvable software.
 >
-> <cite>&ndash; Martin Fowler, *Refactoring*
+> <cite>&ndash; Martin Fowler, *Refactoring*</cite>
 
 > When I first started at Resolver, I used to virtuously pepper my code with nice descriptive comments. My colleagues said to me: "Harry, we have a word for comments. We call them lies."
 >
-> <cite>&ndash; Harry J.W. Percival, *Test-Driven Development with Python*
+> <cite>&ndash; Harry J.W. Percival, *Test-Driven Development with Python*</cite>
 
 > Code is like poetry; most of it shouldn't have been written.
 >
@@ -158,11 +158,11 @@
 
 > Debugging is like being the detective in a crime movie where you are also the murderer.
 > 
-> <cite>&ndash; Filipe Fortes
+> <cite>&ndash; Filipe Fortes</cite>
 
 > Nothing is more dangerous than an idea if it's the only one you have.
 >
-> <cite>&ndash; Emil-Auguste Chartier, *Propos sur la religion*, 1938
+> <cite>&ndash; Emil-Auguste Chartier, *Propos sur la religion*, 1938</cite>
 
 > You cannot control an exponential process with a linear response.
 >
@@ -190,7 +190,7 @@
 
 > There is only one true requirement for any software: make your users/customers' lives better. Everything else is just implementation detail.
 >
-> <cite>&ndash; Allen Holub ([source](https://twitter.com/allenholub/status/1614767693063933953))
+> <cite>&ndash; Allen Holub ([source](https://twitter.com/allenholub/status/1614767693063933953))</cite>
 
 > Data is a precious thing and will last longer than the systems themselves.
 >
