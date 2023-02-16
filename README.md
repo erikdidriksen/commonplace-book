@@ -158,7 +158,7 @@
 
 > Debugging is like being the detective in a crime movie where you are also the murderer.
 > 
-> <cite>&ndash; Filipe Fortes</cite>
+> <cite>&ndash; Filipe Fortes ([source](https://twitter.com/fortes/status/399339918213652480))</cite>
 
 > Nothing is more dangerous than an idea if it's the only one you have.
 >
