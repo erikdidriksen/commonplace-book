@@ -178,7 +178,7 @@
 
 > Don't even start considering solutions until you understand the problem. Your goal should be to "solve" the problem mostly within the problem domain, not the solution domain.
 >
-> <cite>&ndash; Oz Nova</cite>
+> <cite>&ndash; Oz Nova, ["You Are Not Google"](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)</cite>
 
 > You haven't mastered a tool until you understand when it should not be used.
 >
