@@ -195,3 +195,7 @@
 > Data is a precious thing and will last longer than the systems themselves.
 >
 > <cite>&ndash; Tim Berners-Lee</cite>
+
+> It is foolish to answer a question that you do not understand. It is sad to work for an end that you do not desire.
+>
+> <cite>&ndash; George Pólya, *How to Solve It: A New Aspect of Mathematical Method*</cite>
