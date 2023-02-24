@@ -199,3 +199,7 @@
 > It is foolish to answer a question that you do not understand. It is sad to work for an end that you do not desire.
 >
 > <cite>&ndash; George Pólya, *How to Solve It: A New Aspect of Mathematical Method*</cite>
+
+> ... familiarity masquerades as simplicity until you’re waist-deep in the implementation.
+>
+> <cite>&ndash; Chelsea Troy, ["Elevators in Python are Harder Than They Sound (Part 2)"](https://chelseatroy.com/2021/01/05/elevators-in-python-are-harder-than-they-sound-part-2/)</cite>
