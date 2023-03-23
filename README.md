@@ -203,3 +203,7 @@
 > ... familiarity masquerades as simplicity until you’re waist-deep in the implementation.
 >
 > <cite>&ndash; Chelsea Troy, ["Elevators in Python are Harder Than They Sound (Part 2)"](https://chelseatroy.com/2021/01/05/elevators-in-python-are-harder-than-they-sound-part-2/)</cite>
+
+> The first step of any project is to grossly underestimate its complexity and difficulty.
+>
+> <cite>&ndash; Nicoll Hunt ([source](https://twitter.com/nicollhunt/status/457444222275436544))</cite>
