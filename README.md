@@ -74,6 +74,7 @@
 
 ### Projects
 - ["Pyambic Pentameter: Generating Rhyming and Metered Poems" by Kathryn Lingel](https://youtube.com/watch?v=2ymZVpuqvSc) ([source](https://github.com/katlings/pyambic-pentameter/))
+- ["Deliberate Functional Practice in Python" by Michał Moroz](https://makimo.pl/blog/deliberate-functional-programming-in-python/)
 
 ## Refactoring
 
