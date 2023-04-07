@@ -114,6 +114,10 @@
 >
 > <cite>&ndash; Harold Abelson, <i>Structure and Interpretation of Computer Programs</i></cite>
 
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+>
+> <cite>&ndash; Martin Fowler</cite>
+
 > Show me your flowchart and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won't usually need your flowchart; it'll be obvious.
 >
 > <cite>&ndash; Fred Brooks, <i>The Mythical Man-Month</i></cite>
