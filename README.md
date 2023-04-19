@@ -213,3 +213,8 @@
 > The first step of any project is to grossly underestimate its complexity and difficulty.
 >
 > <cite>&ndash; Nicoll Hunt ([source](https://twitter.com/nicollhunt/status/457444222275436544))</cite>
+
+> In preparing for battle I have always found that plans are useless but planning is indispensable.
+>
+> <cite>&ndash; Dwight D. Eisenhower</cite>
+
