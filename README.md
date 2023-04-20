@@ -78,6 +78,10 @@
 
 ## Refactoring
 
+> If someone says their code was broken for a couple of days while they are refactoring, you can be pretty sure they were not refactoring. 
+>
+> <cite>&ndash; Martin Fowler, *Refactoring*</cite>
+
 - ["Catalog of Refactorings" from *Refactoring* by Martin Fowler](https://refactoring.com/catalog/)
 - ["Unraveling the Spaghetti: Tips for Refactoring Your Code" by Nicholas Del Grosso](https://youtube.com/watch?v=0dMz-bv_wUw)
 
@@ -218,3 +222,6 @@
 >
 > <cite>&ndash; Dwight D. Eisenhower</cite>
 
+> My rule is a variation on the camping rule: Always leave the code base healthier than you found it.
+>
+> <cite>&ndash; Martin Fowler, *Refactoring*
