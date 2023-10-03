@@ -226,3 +226,7 @@
 > My rule is a variation on the camping rule: Always leave the code base healthier than you found it.
 >
 > <cite>&ndash; Martin Fowler, *Refactoring*
+
+> All problems in computer science can be solved by adding another level of indirection.
+>
+> <cite>&ndash; David Wheeler</cite>
