@@ -50,6 +50,7 @@
 - ["7 Code Virtues Explained" by Tim Ottinger](https://www.industriallogic.com/blog/code-virtues-explained/)
 - ["The DRY Principle: Benefits and Costs with Examples" by Matthieu Cneude](https://thevaluable.dev/dry-principle-cost-benefit-example/)
 - ["Naming Conventions in Programming - A Review of Scientific Literature" by Iwo Herka](https://makimo.pl/blog/scientific-perspective-on-naming-in-programming/)
+- ["Null Hell and How to Get Out of It" by Anna Filina](https://afilina.com/null-hell/)
 - ["Lessons from Debugging" by Matt Rickard](https://matt-rickard.com/lessons-from-debugging)
 
 ## Python
