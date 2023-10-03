@@ -231,3 +231,7 @@
 > All problems in computer science can be solved by adding another level of indirection.
 >
 > <cite>&ndash; David Wheeler</cite>
+
+> It is impossible for a man to learn what he thinks he already knows.
+>
+> <cite>&ndash; Epictetus</cite>
