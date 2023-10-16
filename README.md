@@ -235,3 +235,7 @@
 > It is impossible for a man to learn what he thinks he already knows.
 >
 > <cite>&ndash; Epictetus</cite>
+
+> Civilization advances by extending the number of important operations which we can perform without thinking about them.
+>
+> <cite>&ndash; Alfred North Whitehead</cite>
