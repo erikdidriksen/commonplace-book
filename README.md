@@ -53,6 +53,8 @@
 - ["On the Importance of Naming in Programming" by Martin Sosic](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
 - ["Null Hell and How to Get Out of It" by Anna Filina](https://afilina.com/null-hell/)
 - ["Lessons from Debugging" by Matt Rickard](https://matt-rickard.com/lessons-from-debugging)
+- ["Improve Readability With Positive Booleans" by Max Kanat-Alexander](https://testing.googleblog.com/2023/10/improve-readability-with-positive.html)
+- ["Use Abstraction to Improve Function Readability" by Palak Bansal and Mark Manley](https://testing.googleblog.com/2023/09/use-abstraction-to-improve-function.html)
 
 ## Python
 
