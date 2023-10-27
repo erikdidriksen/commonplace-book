@@ -240,3 +240,7 @@
 > Civilization advances by extending the number of important operations which we can perform without thinking about them.
 >
 > <cite>&ndash; Alfred North Whitehead</cite>
+
+> I have yet to see any problem, however complicated, which, when looked at in the right way, did not become still more complicated.
+>
+> <cite>&ndash; Poul Anderson
