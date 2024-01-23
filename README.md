@@ -246,4 +246,8 @@
 
 > I have yet to see any problem, however complicated, which, when looked at in the right way, did not become still more complicated.
 >
-> <cite>&ndash; Poul Anderson
+> <cite>&ndash; Poul Anderson</cite>
+
+> The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+>
+> <cite>&ndash; Tom Cargill</cite>
