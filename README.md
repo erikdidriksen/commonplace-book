@@ -25,6 +25,7 @@
 - ["How to Do Code Reviews Like a Human" by Michael Lynch](https://mtlynch.io/human-code-reviews-1/)
 - ["How to Make Your Code Reviewer Fall in Love with You" by Michael Lynch](https://mtlynch.io/code-review-love/)
 - ["All About Code Review" by Michaela Greiler](https://github.com/mgreiler/all-about-code-review/blob/master/README.md)
+- ["The Art of Good Code Review" by Phil Booth](https://philbooth.me/blog/the-art-of-good-code-review)
 
 ## Documentation
 
