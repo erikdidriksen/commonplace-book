@@ -255,3 +255,7 @@
 > The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 >
 > <cite>&ndash; Tom Cargill</cite>
+
+> In programming, if someone tells you "you're overcomplicating it," they're either ten steps behind you or ten steps ahead of you.
+>
+> <cite>&ndash; Andrew Clark</cite>
