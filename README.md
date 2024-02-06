@@ -45,6 +45,7 @@
 - ["How to Write a Git Commit" by Chris Beams](https://chris.beams.io/posts/git-commit)
 - ["A Useful Template for Commit Messages" by David Winterbottom](https://codeinthehole.com/tips/a-useful-template-for-commit-messages/)
 - ["Git Commit Messages for the Bold and the Daring" by Carmen Popoviciu](https://backlog.com/blog/git-commit-messages-bold-daring)
+- ["My Favorite Git Commit" by David Thompson](https://dhwthompson.com/2019/my-favourite-git-commit)
 - ["Inside .git" by Julia Evans](https://jvns.ca/blog/2024/01/26/inside-git/)
 
 ## Philosophy
