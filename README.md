@@ -54,6 +54,7 @@
 - ["7 Code Virtues Explained" by Tim Ottinger](https://www.industriallogic.com/blog/code-virtues-explained/)
 - ["Hacker Laws" by Dave Kerr](https://github.com/dwmkerr/hacker-laws)
 - ["Lessons Learned" by Paul Homer](https://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)
+- ["Mastering Programming" by Kent Beck](https://tidyfirst.substack.com/p/mastering-programming)
 - ["The DRY Principle: Benefits and Costs with Examples" by Matthieu Cneude](https://thevaluable.dev/dry-principle-cost-benefit-example/)
 - ["Naming Conventions in Programming - A Review of Scientific Literature" by Iwo Herka](https://makimo.pl/blog/scientific-perspective-on-naming-in-programming/)
 - ["On the Importance of Naming in Programming" by Martin Sosic](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
