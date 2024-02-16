@@ -47,6 +47,7 @@
 - ["Git Commit Messages for the Bold and the Daring" by Carmen Popoviciu](https://backlog.com/blog/git-commit-messages-bold-daring)
 - ["My Favorite Git Commit" by David Thompson](https://dhwthompson.com/2019/my-favourite-git-commit)
 - ["Inside .git" by Julia Evans](https://jvns.ca/blog/2024/01/26/inside-git/)
+- ["Git Tips and Tricks" by Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)
 
 ## Philosophy
 
