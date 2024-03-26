@@ -262,3 +262,7 @@
 > In programming, if someone tells you "you're overcomplicating it," they're either ten steps behind you or ten steps ahead of you.
 >
 > <cite>&ndash; Andrew Clark</cite>
+
+> Understand what problem you’re solving. Knowing _why_ you’re doing something is a requirement to knowing whether you’re actually solving the problem.
+>
+> <cite>&ndash; Thorsten Ball, ["The Basics"](https://registerspill.thorstenball.com/p/the-basics)</cite>
