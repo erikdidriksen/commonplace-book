@@ -136,6 +136,10 @@
 >
 > <cite>&ndash; Martin Fowler</cite>
 
+> Don't fight forces, use them.
+>
+> <cite>&ndash; R. Buckminster Fuller</cite>
+
 > Show me your flowchart and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won't usually need your flowchart; it'll be obvious.
 >
 > <cite>&ndash; Fred Brooks, <i>The Mythical Man-Month</i></cite>
