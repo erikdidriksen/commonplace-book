@@ -59,6 +59,7 @@
 - ["Naming Conventions in Programming - A Review of Scientific Literature" by Iwo Herka](https://makimo.pl/blog/scientific-perspective-on-naming-in-programming/)
 - ["On the Importance of Naming in Programming" by Martin Sosic](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
 - ["What's in a Name?" by Adam Raider](https://testing.googleblog.com/2024/03/whats-in-name.html)
+- ["When to Use Cute Names or Descriptive Names" by Nicole Tietz-Sokolskaya](https://ntietz.com/blog/when-to-use-cute-names-or-descriptive-names/)
 
 ## Philosophy
 
