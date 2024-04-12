@@ -11,6 +11,7 @@
 ## Table of Contents
 
 - [Code Review](#code-review)
+- [Communication](#communication)
 - [Documentation](#documentation)
 - [Git](#git)
 - [Naming Things](#naming-things)
@@ -27,6 +28,10 @@
 - ["How to Make Your Code Reviewer Fall in Love with You" by Michael Lynch](https://mtlynch.io/code-review-love/)
 - ["All About Code Review" by Michaela Greiler](https://github.com/mgreiler/all-about-code-review/blob/master/README.md)
 - ["The Art of Good Code Review" by Phil Booth](https://philbooth.me/blog/the-art-of-good-code-review)
+
+## Communication
+
+- ["How to Send Progress Updates" by Slava Akhmechet](https://www.spakhm.com/updates-howto)
 
 ## Documentation
 
