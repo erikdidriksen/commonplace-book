@@ -13,6 +13,7 @@
 - [Code Review](#code-review)
 - [Documentation](#documentation)
 - [Git](#git)
+- [Naming Things](#naming-things)
 - [Philosophy](#philosophy)
 - [Python](#python)
 - [Refactoring](#refactoring)
@@ -49,6 +50,16 @@
 - ["Inside .git" by Julia Evans](https://jvns.ca/blog/2024/01/26/inside-git/)
 - ["Git Tips and Tricks" by Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)
 
+## Naming things
+
+> There are only two hard things in computer science: cache invalidation and naming things.
+>
+> &ndash; <cite>Phil Karlton</cite>
+
+- ["Naming Conventions in Programming - A Review of Scientific Literature" by Iwo Herka](https://makimo.pl/blog/scientific-perspective-on-naming-in-programming/)
+- ["On the Importance of Naming in Programming" by Martin Sosic](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
+- ["What's in a Name?" by Adam Raider](https://testing.googleblog.com/2024/03/whats-in-name.html)
+
 ## Philosophy
 
 - ["A Philosophy of Software Design" by John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/book.php)
@@ -57,13 +68,10 @@
 - ["Lessons Learned" by Paul Homer](https://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)
 - ["Mastering Programming" by Kent Beck](https://tidyfirst.substack.com/p/mastering-programming)
 - ["The DRY Principle: Benefits and Costs with Examples" by Matthieu Cneude](https://thevaluable.dev/dry-principle-cost-benefit-example/)
-- ["Naming Conventions in Programming - A Review of Scientific Literature" by Iwo Herka](https://makimo.pl/blog/scientific-perspective-on-naming-in-programming/)
-- ["On the Importance of Naming in Programming" by Martin Sosic](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
 - ["Null Hell and How to Get Out of It" by Anna Filina](https://afilina.com/null-hell/)
 - ["Lessons from Debugging" by Matt Rickard](https://matt-rickard.com/lessons-from-debugging)
 - ["Improve Readability With Positive Booleans" by Max Kanat-Alexander](https://testing.googleblog.com/2023/10/improve-readability-with-positive.html)
 - ["Use Abstraction to Improve Function Readability" by Palak Bansal and Mark Manley](https://testing.googleblog.com/2023/09/use-abstraction-to-improve-function.html)
-- ["What's in a Name?" by Adam Raider](https://testing.googleblog.com/2024/03/whats-in-name.html)
 
 ## Python
 
