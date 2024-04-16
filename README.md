@@ -33,6 +33,7 @@
 
 - ["Writing Sensible Email Messages" by Merlin Mann](https://www.43folders.com/2005/09/19/writing-sensible-email-messages)
 - ["How to Send Progress Updates" by Slava Akhmechet](https://www.spakhm.com/updates-howto)
+- ["5 Non-Verbal Behaviors Killing Team Health" by Raviraj Achar](https://newsletter.techleadmentor.com/p/5-non-verbal-behaviors-killing-team)
 
 ## Documentation
 
