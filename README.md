@@ -19,6 +19,7 @@
 - [Python](#python)
 - [Refactoring](#refactoring)
 - [Technical Debt](#technical-debt)
+- [Testing](#testing)
 - [Wisdom](#wisdom)
 
 ## Code review
@@ -122,6 +123,15 @@
 - ["Technical Debt: An Analytical Approach" by Chelsea Troy](https://chelseatroy.thinkific.com/courses/technical-debt-an-analytical-approach)
 - ["Technical Debt != Bad Coding" by Joshua Arnold](https://costofdelay.com/technical-debt-bad-coding)
 
+## Testing
+
+> Code without tests is broken as designed.
+>
+> <cite>&ndash; Jacob Kaplan-Moss</cite>
+
+- ["How I Learned To Stop Writing Brittle Tests and Love Expressive APIs" by Titus Winters](https://testing.googleblog.com/2024/04/how-i-learned-to-stop-writing-brittle.html)
+
+
 ## Wisdom
 
 > When faced with a particularly gnarly problem, stop trying to solve the problem. Start figuring out how to not have it.
@@ -135,10 +145,6 @@
 > Simplicity is prerequisite for reliability.
 >
 > <cite>&ndash; Edsger W. Dijkstra</cite>
-
-> Code without tests is broken as designed.
->
-> <cite>&ndash; Jacob Kaplan-Moss</cite>
 
 > Debugging is twice as hard as writing code in the first place. Therefore, if you write code as cleverly as possible, you are, by definition, not smart enough to debug it.
 >
