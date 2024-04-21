@@ -35,6 +35,7 @@
 - ["Writing Sensible Email Messages" by Merlin Mann](https://www.43folders.com/2005/09/19/writing-sensible-email-messages)
 - ["How to Send Progress Updates" by Slava Akhmechet](https://www.spakhm.com/updates-howto)
 - ["5 Non-Verbal Behaviors Killing Team Health" by Raviraj Achar](https://newsletter.techleadmentor.com/p/5-non-verbal-behaviors-killing-team)
+- ["How to Share Your Point of View (Even If You're Afraid of Being Wrong)" by Wes Kao](https://newsletter.weskao.com/p/high-performers-share-their-point-of-view)
 
 ## Documentation
 
