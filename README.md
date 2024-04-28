@@ -83,6 +83,7 @@
 - ["Lessons from Debugging" by Matt Rickard](https://matt-rickard.com/lessons-from-debugging)
 - ["Improve Readability With Positive Booleans" by Max Kanat-Alexander](https://testing.googleblog.com/2023/10/improve-readability-with-positive.html)
 - ["Use Abstraction to Improve Function Readability" by Palak Bansal and Mark Manley](https://testing.googleblog.com/2023/09/use-abstraction-to-improve-function.html)
+- ["isBooleanTooLongAndComplex" by Yiming Sun](https://testing.googleblog.com/2024/04/isbooleantoolongandcomplex.html)
 
 ## Python
 
