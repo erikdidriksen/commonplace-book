@@ -136,6 +136,15 @@
 >
 > <cite>&ndash; Jacob Kaplan-Moss</cite>
 
+> A program that has not been tested does not work.
+>
+> <cite>&ndash; Bjarne Stroustrup</cite>
+
+> Testing shows the presence, not the absence, of bugs.
+>
+> <cite>&ndash; Edsger W. Dijkstra</cite>
+
+
 - ["How I Learned To Stop Writing Brittle Tests and Love Expressive APIs" by Titus Winters](https://testing.googleblog.com/2024/04/how-i-learned-to-stop-writing-brittle.html)
 
 
@@ -184,10 +193,6 @@
 > If you try to trade off quality for speed, you'll end up with neither.
 >
 > <cite>&ndash; Allen Holub ([source](https://twitter.com/allenholub/status/1354530936063365120))</cite>
-
-> Testing shows the presence, not the absence, of bugs.
->
-> <cite>&ndash; Edsger W. Dijkstra</cite>
 
 > The tools we use have a profound (and devious!) influence on our thinking habits, and, therefore, on our thinking abilities.
 >
