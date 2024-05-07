@@ -77,6 +77,7 @@
 
 - ["A Philosophy of Software Design" by John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/book.php)
 - ["7 Code Virtues Explained" by Tim Ottinger](https://www.industriallogic.com/blog/code-virtues-explained/)
+- ["Cognitive Load in Software Development" by Artem Zakirullin](https://github.com/zakirullin/cognitive-load)
 - ["Hacker Laws" by Dave Kerr](https://github.com/dwmkerr/hacker-laws)
 - ["Lessons Learned" by Paul Homer](https://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)
 - ["Mastering Programming" by Kent Beck](https://tidyfirst.substack.com/p/mastering-programming)
