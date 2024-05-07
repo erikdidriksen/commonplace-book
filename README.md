@@ -37,6 +37,7 @@
 - ["How to Send Progress Updates" by Slava Akhmechet](https://www.spakhm.com/updates-howto)
 - ["5 Non-Verbal Behaviors Killing Team Health" by Raviraj Achar](https://newsletter.techleadmentor.com/p/5-non-verbal-behaviors-killing-team)
 - ["How to Share Your Point of View (Even If You're Afraid of Being Wrong)" by Wes Kao](https://newsletter.weskao.com/p/high-performers-share-their-point-of-view)
+- ["An Engineer's Guide to Talking to Users" by Ian Vanagas](https://newsletter.posthog.com/p/talk-to-users)
 
 ## Documentation
 
