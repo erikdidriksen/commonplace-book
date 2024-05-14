@@ -39,6 +39,7 @@
 - ["5 Non-Verbal Behaviors Killing Team Health" by Raviraj Achar](https://newsletter.techleadmentor.com/p/5-non-verbal-behaviors-killing-team)
 - ["How to Share Your Point of View (Even If You're Afraid of Being Wrong)" by Wes Kao](https://newsletter.weskao.com/p/high-performers-share-their-point-of-view)
 - ["An Engineer's Guide to Talking to Users" by Ian Vanagas](https://newsletter.posthog.com/p/talk-to-users)
+- ["Communicate Like a Senior: Use Clear Deltas" by Jordan Cutler](https://read.highgrowthengineer.com/p/communicate-like-a-senior-use-clear)
 
 ## Documentation
 
