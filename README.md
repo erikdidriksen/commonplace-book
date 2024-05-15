@@ -307,3 +307,7 @@
 > Understand what problem you’re solving. Knowing _why_ you’re doing something is a requirement to knowing whether you’re actually solving the problem.
 >
 > <cite>&ndash; Thorsten Ball, ["The Basics"](https://registerspill.thorstenball.com/p/the-basics)</cite>
+
+> In our culture, innovation is revered, and maintenance is not. In IT there is a myopic attention to the latest tech and a failure to recognize and value that IT maintenance requires great skill and can be innovative (new processes, new fixes, etc.).
+>
+> <cite>&ndash; Jeffrey Yost, ["Where Dinosaurs Roam and Programmers Play: Reflections on Infrastructure, Maintenance, and Inequality"](https://cse.umn.edu/cbi/interfaces-volume-1-2020#Where%20Dinosaurs%20Roam)
