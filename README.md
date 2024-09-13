@@ -86,6 +86,7 @@
 - ["Hacker Laws" by Dave Kerr](https://github.com/dwmkerr/hacker-laws)
 - ["Lessons Learned" by Paul Homer](https://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)
 - ["Mastering Programming" by Kent Beck](https://tidyfirst.substack.com/p/mastering-programming)
+- ["Good Software Development Habits" by Zarar Siddiqi](https://zarar.dev/good-software-development-habits/)
 - ["4 Software Design Principles I Learned the Hard Way" by Leonardo Creed](https://read.engineerscodex.com/p/4-software-design-principles-i-learned)
 - ["The DRY Principle: Benefits and Costs with Examples" by Matthieu Cneude](https://thevaluable.dev/dry-principle-cost-benefit-example/)
 - ["Null Hell and How to Get Out of It" by Anna Filina](https://afilina.com/null-hell/)
