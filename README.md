@@ -314,3 +314,7 @@
 > In our culture, innovation is revered, and maintenance is not. In IT there is a myopic attention to the latest tech and a failure to recognize and value that IT maintenance requires great skill and can be innovative (new processes, new fixes, etc.).
 >
 > <cite>&ndash; Jeffrey Yost, ["Where Dinosaurs Roam and Programmers Play: Reflections on Infrastructure, Maintenance, and Inequality"](https://cse.umn.edu/cbi/interfaces-volume-1-2020#Where%20Dinosaurs%20Roam)
+
+> Never confuse movement with action.
+>
+> <cite>&ndash; Ernest Hemingway</cite>
