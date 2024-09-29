@@ -291,7 +291,7 @@
 >
 > <cite>&ndash; Epictetus</cite>
 
-> Civilization advances by extending the number of important operations which we can perform without thinking about them.
+> It is a profoundly erroneous truism... that we should cultivate the habit of thinking of what we are doing. The precise opposite is the case. Civilization advances by extending the number of important operations which we can perform without thinking about them.
 >
 > <cite>&ndash; Alfred North Whitehead</cite>
 
