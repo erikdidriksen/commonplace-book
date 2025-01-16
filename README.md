@@ -318,3 +318,7 @@
 > Never confuse movement with action.
 >
 > <cite>&ndash; Ernest Hemingway</cite>
+
+> Sometimes the problem is to discover what the problem is.
+>
+> <cite>&ndash; Gordon Glegg, *The Design of Design*
