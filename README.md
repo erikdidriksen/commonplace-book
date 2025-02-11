@@ -40,6 +40,7 @@
 - ["How to Share Your Point of View (Even If You're Afraid of Being Wrong)" by Wes Kao](https://newsletter.weskao.com/p/high-performers-share-their-point-of-view)
 - ["An Engineer's Guide to Talking to Users" by Ian Vanagas](https://newsletter.posthog.com/p/talk-to-users)
 - ["Communicate Like a Senior: Use Clear Deltas" by Jordan Cutler](https://read.highgrowthengineer.com/p/communicate-like-a-senior-use-clear)
+- ["How I Give the Right Amount of Context (In Any Situation)" by Wes Kao](https://newsletter.weskao.com/p/how-i-give-the-right-amount-of-context)
 
 ## Documentation
 
