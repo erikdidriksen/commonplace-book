@@ -97,6 +97,7 @@
 - ["Lessons from Debugging" by Matt Rickard](https://matt-rickard.com/lessons-from-debugging)
 - ["Use Abstraction to Improve Function Readability" by Palak Bansal and Mark Manley](https://testing.googleblog.com/2023/09/use-abstraction-to-improve-function.html)
 - ["Programming Mantras are Proverbs" by Luke Plant](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
+- ["We are Destroying Software" by Salvatore Sanfilippo](https://antirez.com/news/145)
 
 ## Python
 
