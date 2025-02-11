@@ -54,6 +54,7 @@
 - ["Explain Like I'm Five" by Andrew Bosworth](https://boz.com/articles/eli5)
 - ["What Makes Documentation Good" by Ted Sanders](https://cookbook.openai.com/articles/what_makes_documentation_good)
 - ["How to Write a Good Design Document" by Grant Slatton](https://grantslatton.com/how-to-design-document)
+- ["Basic Things" by Alex Kladov](https://matklad.github.io/2024/03/22/basic-things.html)
 - ["The Documentation Tradeoff" by Kent Beck](https://tidyfirst.substack.com/p/the-documentation-tradeoff)
 - ["Building Docs Like Code: Continuous Integration for Documentation" by Mason Egger](https://www.youtube.com/watch?v=wEt_8twQctQ)
 
