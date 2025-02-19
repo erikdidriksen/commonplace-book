@@ -327,3 +327,7 @@
 > Sometimes the problem is to discover what the problem is.
 >
 > <cite>&ndash; Gordon Glegg, *The Design of Design*
+
+> The first principle is that you must not fool yourself &ndash; and you are the easiest person to fool.
+>
+> <cite>&ndash; Richard Feynman</cite>
