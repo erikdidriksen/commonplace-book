@@ -331,3 +331,7 @@
 > The first principle is that you must not fool yourself &ndash; and you are the easiest person to fool.
 >
 > <cite>&ndash; Richard Feynman</cite>
+
+> For each desired change, make the change easy (warning: this may be hard), then make the easy change.
+>
+> <cite>&ndash; Kent Beck ([source](https://twitter.com/KentBeck/status/250733358307500032))
