@@ -336,3 +336,7 @@
 > For each desired change, make the change easy (warning: this may be hard), then make the easy change.
 >
 > <cite>&ndash; Kent Beck ([source](https://twitter.com/KentBeck/status/250733358307500032))
+
+> For every complex problem there is an answer that is clear, simple, and wrong.
+>
+> <cite>&ndash; H.L. Mencken</cite>
