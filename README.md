@@ -340,3 +340,7 @@
 > For every complex problem there is an answer that is clear, simple, and wrong.
 >
 > <cite>&ndash; H.L. Mencken</cite>
+
+> The function of good software is to make the complex appear to be simple.
+>
+> <cite>&ndash; Grady Booch</cite>
