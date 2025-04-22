@@ -344,3 +344,7 @@
 > The function of good software is to make the complex appear to be simple.
 >
 > <cite>&ndash; Grady Booch</cite>
+
+> Changing random stuff until your program works is bad coding practice, but if you do it fast enough, it's machine learning.
+>
+> <cite>&ndash; Unknown ([source](https://twitter.com/manisha72617183/status/1334871506074050560))
