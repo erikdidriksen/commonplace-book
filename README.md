@@ -348,3 +348,7 @@
 > Changing random stuff until your program works is bad coding practice, but if you do it fast enough, it's machine learning.
 >
 > <cite>&ndash; Unknown ([source](https://twitter.com/manisha72617183/status/1334871506074050560))
+
+> ... how many pretty Systems do we build, which we soon find ourselves oblig'd to destroy!
+>
+> <cite>&ndash; Benjamin Franklin ([source](https://founders.archives.gov/documents/Franklin/01-03-02-0081))
