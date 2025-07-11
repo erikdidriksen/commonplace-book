@@ -352,3 +352,7 @@
 > ... how many pretty Systems do we build, which we soon find ourselves oblig'd to destroy!
 >
 > <cite>&ndash; Benjamin Franklin ([source](https://founders.archives.gov/documents/Franklin/01-03-02-0081))
+
+> All models are wrong, but some are useful.
+>
+> <cite>&ndash; George Box</cite>
