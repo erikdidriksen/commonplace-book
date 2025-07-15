@@ -356,3 +356,7 @@
 > All models are wrong, but some are useful.
 >
 > <cite>&ndash; George Box</cite>
+
+> One of the best programming skills you can have is knowing when to walk away for awhile.
+>
+> <cite>&ndash; Oscar Godson</cite>
