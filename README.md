@@ -133,6 +133,7 @@
 
 - ["Catalog of Refactorings" from *Refactoring* by Martin Fowler](https://refactoring.com/catalog/)
 - ["Unraveling the Spaghetti: Tips for Refactoring Your Code" by Nicholas Del Grosso](https://youtube.com/watch?v=0dMz-bv_wUw)
+- ["Refactoring Long Boolean Expressions" by Trey Hunner](https://www.pythonmorsels.com/refactoring-boolean-expressions/)
 
 ## Technical debt
 
