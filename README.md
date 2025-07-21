@@ -369,3 +369,7 @@
 > The shape of the data determines the shape of the code.
 >
 > <cite>&ndash; Hynek Schlawack, ["Design Pressure: The Invisible Hand That Shapes Your Code"](https://www.youtube.com/watch?v=IhNSINolcSM)</cite>
+
+> Good examples are by far the hardest part of explaining design.
+>
+> <cite>&ndash; Kent Beck</cite>, ["Don't Cross the Beams"](https://tidyfirst.substack.com/p/dont-cross-the-beams)
