@@ -361,3 +361,7 @@
 > One of the best programming skills you can have is knowing when to walk away for awhile.
 >
 > <cite>&ndash; Oscar Godson</cite>
+
+> You should structure your data so that the problem solves itself.
+>
+> <cite>&ndash; Matthew Drury, ["The Rising Sea"](https://www.youtube.com/watch?v=AkBWb1fK6R8)
