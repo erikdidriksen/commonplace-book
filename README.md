@@ -365,3 +365,7 @@
 > You should structure your data so that the problem solves itself.
 >
 > <cite>&ndash; Matthew Drury, ["The Rising Sea"](https://www.youtube.com/watch?v=AkBWb1fK6R8)
+
+> The shape of the data determines the shape of the code.
+>
+> <cite>&ndash; Hynek Schlawack, ["Design Pressure: The Invisible Hand That Shapes Your Code"](https://www.youtube.com/watch?v=IhNSINolcSM)</cite>
