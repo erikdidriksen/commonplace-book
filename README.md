@@ -373,3 +373,7 @@
 > Good examples are by far the hardest part of explaining design.
 >
 > <cite>&ndash; Kent Beck</cite>, ["Don't Cross the Beams"](https://tidyfirst.substack.com/p/dont-cross-the-beams)
+
+> I have also learned not to take glory in the difficulty of a proof: difficulty means we have not understood. The ideal is to be able to paint a landscape in which the proof is obvious.
+>
+> <cite>&ndash; Pierre Deligne</cite>
