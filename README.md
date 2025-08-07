@@ -113,6 +113,7 @@
 - ["If Statements are a Code Smell" by Aly Sivji](https://www.youtube.com/watch?v=P0kfKqMHioQ)
 - ["Push Ifs Up And Fors Down" by Alex Kladov](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 - ["The Zen of Polymorphism: Choosing between isinstance(), methods, and @singledispatch" by Brett Slatkin](https://www.youtube.com/watch?v=hidy15rK2a4)
+- [Łukasz Langa's PyCon 2023 keynote on type hinting practices](https://www.youtube.com/watch?v=wbohVjhqg7c)
 
 ### References
 - [PEP8](https://www.python.org/dev/peps/pep-0008/), the general Python style guide
