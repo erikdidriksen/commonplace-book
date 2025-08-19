@@ -379,3 +379,11 @@
 > I have also learned not to take glory in the difficulty of a proof: difficulty means we have not understood. The ideal is to be able to paint a landscape in which the proof is obvious.
 >
 > <cite>&ndash; Pierre Deligne</cite>
+
+> We make, not to have, but to know.
+>
+> <cite>&ndash; Alan Kay</cite>
+
+> Programming is not about typing, it's about thinking.
+>
+> <cite>&ndash; Rich Hickey</cite>
