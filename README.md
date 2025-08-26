@@ -34,6 +34,7 @@
 
 - ["Writing Sensible Email Messages" by Merlin Mann](https://www.43folders.com/2005/09/19/writing-sensible-email-messages)
 - ["The 37signals Guide to Internal Communication"](https://37signals.com/how-we-communicate)
+- ["Communication is the Job" by Andrew Bosworth](https://boz.com/articles/communication-is-the-job)
 - ["How to Send Progress Updates" by Slava Akhmechet](https://www.spakhm.com/updates-howto)
 - ["My Favorite Teacher" by Thorsten Ball](https://registerspill.thorstenball.com/p/my-favorite-teacher)
 - ["5 Non-Verbal Behaviors Killing Team Health" by Raviraj Achar](https://newsletter.techleadmentor.com/p/5-non-verbal-behaviors-killing-team)
