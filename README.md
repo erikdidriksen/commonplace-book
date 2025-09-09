@@ -388,3 +388,7 @@
 > Programming is not about typing, it's about thinking.
 >
 > <cite>&ndash; Rich Hickey</cite>
+
+> Everything is vague to a degree you do not realize 'til you have tried to make it precise.
+>
+> <cite>&ndash; Bertrand Russell</cite>
