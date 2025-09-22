@@ -392,3 +392,7 @@
 > Everything is vague to a degree you do not realize 'til you have tried to make it precise.
 >
 > <cite>&ndash; Bertrand Russell</cite>
+
+> A complex system that works is invariably found to have evolved from a simple system that worked.
+>
+> <cite>&ndash; John Gall</cite>
