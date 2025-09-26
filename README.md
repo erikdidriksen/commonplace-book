@@ -396,3 +396,7 @@
 > A complex system that works is invariably found to have evolved from a simple system that worked.
 >
 > <cite>&ndash; John Gall</cite>
+
+> Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+>
+> <cite>&ndash; Alan Perlis</cite>
