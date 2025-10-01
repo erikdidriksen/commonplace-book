@@ -400,3 +400,7 @@
 > Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 >
 > <cite>&ndash; Alan Perlis</cite>
+
+> Conceptual integrity is the most important consideration in system design.
+>
+> <cite>&ndash; Fred Brooks, "Aristocracy, Democracy, and System Design," <i>The Mythical Man-Month</i></cite>
