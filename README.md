@@ -403,3 +403,7 @@
 > Conceptual integrity is the most important consideration in system design.
 >
 > <cite>&ndash; Fred Brooks, "Aristocracy, Democracy, and System Design," <i>The Mythical Man-Month</i></cite>
+
+> Almost everything we know about good software architecture has to do with making software easy to change.
+>
+> <cite>&ndash; Mary Poppendieck</cite>
