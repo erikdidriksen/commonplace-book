@@ -144,6 +144,7 @@
 - ["Quantifying Technical Debt" by Chelsea Troy](https://chelseatroy.com/2021/01/14/quantifying-technical-debt/)
 - ["Technical Debt: An Analytical Approach" by Chelsea Troy](https://chelseatroy.thinkific.com/courses/technical-debt-an-analytical-approach)
 - ["Technical Debt != Bad Coding" by Joshua Arnold](https://costofdelay.com/technical-debt-bad-coding)
+- ["You Will Never Know Enough" by Kevlin Henney](https://kevlinhenney.medium.com/you-will-never-know-enough-d872c77f0b69)
 
 ## Testing
 
