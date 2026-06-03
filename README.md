@@ -414,6 +414,7 @@
 > <cite>&ndash; Mary Poppendieck</cite>
 
 > *Felix, qui potuit rerum cognoscere causas.*
+>
 > (Fortunate, who has been able to know the causes of things.)
 >
 > <cite>&ndash; Virgil</cite>
