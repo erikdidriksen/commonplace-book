@@ -412,3 +412,8 @@
 > Almost everything we know about good software architecture has to do with making software easy to change.
 >
 > <cite>&ndash; Mary Poppendieck</cite>
+
+> *Felix, qui potuit rerum cognoscere causas.*
+> (Fortunate, who has been able to know the causes of things.)
+>
+> <cite>&ndash; Virgil</cite>
