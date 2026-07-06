@@ -32,6 +32,10 @@
 
 ## Communication
 
+> If you can't write clearly, you probably don't think nearly as well as you think.
+>
+> &ndash; <cite>Kurt Vonnegut</cite>
+
 - ["Writing Sensible Email Messages" by Merlin Mann](https://www.43folders.com/2005/09/19/writing-sensible-email-messages)
 - ["The 37signals Guide to Internal Communication"](https://37signals.com/how-we-communicate)
 - ["Communication is the Job" by Andrew Bosworth](https://boz.com/articles/communication-is-the-job)
