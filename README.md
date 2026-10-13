@@ -171,6 +171,7 @@
 
 - ["How I Learned To Stop Writing Brittle Tests and Love Expressive APIs" by Titus Winters](https://testing.googleblog.com/2024/04/how-i-learned-to-stop-writing-brittle.html)
 - ["One Outcome Per Test" by Jason Gorman](https://codemanship.wordpress.com/2025/10/13/tdd-under-the-microscope-3-one-outcome-per-test/)
+- ["Decompose Run-On Tests" by Kent Beck](https://newsletter.kentbeck.com/p/decompose-run-on-tests)
 
 ## Wisdom
 
